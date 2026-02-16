@@ -50,3 +50,11 @@ h3
         box-shadow: none;
     }
 }
+
+/*Mobile button press animation*/
+#random:active
+{
+    cursor: pointer;
+    transform: translateY(4px);
+    box-shadow: none;
+}
